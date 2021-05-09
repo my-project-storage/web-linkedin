@@ -8,9 +8,10 @@
   font-size: 40px;
 }
 
-ion-col div, ion-badge {
-    font-size: 12px;
-    font-weight: 400;
+ion-col div,
+ion-badge {
+  font-size: 12px;
+  font-weight: 400;
 }
 
 ion-searchbar {
@@ -24,9 +25,9 @@ ion-icon {
 }
 
 ion-avatar {
-    width: 24px;
-    height: 24px;
-    margin: auto;
+  width: 24px;
+  height: 24px;
+  margin: auto;
 }
 
 ion-col {
@@ -35,5 +36,5 @@ ion-col {
 }
 
 ion-header {
-    border-bottom: 1px solid var(--ion-color-light-tint);
+  border-bottom: 1px solid var(--ion-color-light-tint);
 }
