@@ -22,7 +22,6 @@
   ```bash
   npm i -g @nestjs/cli
   npm i -g @ionic/cli
-  npm i
   ```
 - 환경 변수
   ```
